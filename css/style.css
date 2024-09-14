@@ -9591,6 +9591,7 @@ fieldset{
     border-color: #000;
     background-color: #46C6CE;
     border-radius: 25px;
+    text-align: center;
 }
 legend {
   size: 10pc;
@@ -9608,7 +9609,6 @@ p {
   padding: 5px;
   text-align: left;
 }
-
 .header{
   text-align: right;
 }
