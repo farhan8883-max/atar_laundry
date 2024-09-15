@@ -169,7 +169,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d1e4ea', end
   bottom: 200px;
   width: 2px;
   height: 50px;
-  background: ;
   margin-right: 20px;
 }
 .la:before {
@@ -177,14 +176,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d1e4ea', end
   left: -10px;
   width: 22px;
   height: 2px;
-  background: ;
 }
 .la:after {
   bottom: 0;
   left: -2px;
   width: 6px;
-  height: 12px;
-  background: ;
+  height: 12px; 
 }
 .l {
   position: absolute;
